@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 575px;
+    height: 385px;
+    top: -1135px;
+    left: -1996px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #1B244A;
+    padding: 40px;
+}
+
+h3 {
+    width: 149px;
+    height: 36px;
+    top: 68px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 35.89px;
+    text-align: center;
+    color: #EEEEEE
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.home-score-el {
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background-color: #080001;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 126.67px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+.guest-score-el {
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background-color: #080001;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 126.67px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+.add-score {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.home-one {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.home-two {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.home-three {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.guest-one {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.guest-two {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.guest-three {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+}
+
+.new-game {
+    width: 400px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    background-color: #1B244A;
+    cursor: pointer;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+}
